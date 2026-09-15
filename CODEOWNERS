@@ -1,0 +1,3 @@
+# Every change needs a human reviewer. This is half of the "Claudio never merges"
+# guarantee; branch protection with "Require review from Code Owners" is the other.
+*       @albin-arpya-ai
